@@ -45,20 +45,16 @@ dennis@oslo:~$ tree ~/interests -L 2
 dennis@oslo:~$ _
 ```
 
-### `~/selected-work`
+### `~/work`
 
 ```text
 .
-├── langchain-3-chat-ui       streaming chat UI with LangChain + Next.js
-├── nextjs-langchain-starter  minimal Next.js + LangChain starter
-├── langchain-1-nextjs-stream streaming OpenAI responses
-└── langchain-2-emojify       text → emoji, because why not
+├── Elastic
+├── reMarkable
+├── Ecosia
+├── Zalando
+└── Searchmetrics
 ```
-
-[langchain-3-chat-ui](https://github.com/DennisKo/langchain-3-chat-ui) ·
-[nextjs-langchain-starter](https://github.com/DennisKo/nextjs-langchain-starter) ·
-[langchain-1-nextjs-stream](https://github.com/DennisKo/langchain-1-nextjs-stream) ·
-[langchain-2-emojify](https://github.com/DennisKo/langchain-2-emojify)
 
 <details>
 <summary><code>$ man dennis</code></summary>
